@@ -1,16 +1,20 @@
 # KiSeong Kim 👋
 
-<!--
-**kks1177/kks1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 소개
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 주요 프로젝트
+
+
+## 주요 사용 도구
+
+
+## 관심 분야 및 언어
+
+
+## 주요 경험
+대한상공회의소 충남인력개발원 - 무인 이동체용 지능형 임베디드 시스템 개발
+Northwestern University Summer BigData Course
+북경이공대학교 BigData Course
+비트컴퓨터 - 단기 과정 수료
