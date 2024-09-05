@@ -1,4 +1,4 @@
-## Hi there 👋
+# KiSeong Kim 👋
 
 <!--
 **kks1177/kks1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
