@@ -1,7 +1,7 @@
-# KiSeong Kim 👋
+# KiSeong Kim
 
 
-## 소개
+## 소개 👋
 
 
 ## 주요 프로젝트
