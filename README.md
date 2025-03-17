@@ -74,6 +74,8 @@
   </p>
 </details>
 
+<br>
+
 <details> 
   <summary><h2> 📊 Stats and Activity 📊 </h2></summary>
 
