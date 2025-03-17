@@ -5,7 +5,7 @@
   <summary><h2> 🛠️ Tech Stack 🛠 </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <div style="margin-left: 50px;">
+  <div style="margin-left: 30px;">
     <h3> 👨‍💻 Programming Languages </h3>
     <p>
         <a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
@@ -88,7 +88,7 @@
       <a href="https://github.com/kks1177/github-readme-streak-stats">
         <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kks1177's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kks1177&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
-      <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p><br>
+      <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
     </p>
   </div>
 
