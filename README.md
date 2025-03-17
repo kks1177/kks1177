@@ -7,13 +7,13 @@
 
   <h3> 👨‍💻 Programming Languages </h3>
   <p>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Apython"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Ascratch"><img alt="Scratch" src="https://custom-icon-badges.demolab.com/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Ahtml"><img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a><br>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Apython"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Ascratch"><img alt="Scratch" src="https://custom-icon-badges.demolab.com/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?style=for-the-badge&logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Ahtml"><img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a><br>
   </p>
   
   <h3>🧰 Frameworks & Libraries</h3>
@@ -30,12 +30,11 @@
 
   <h3>🗄️ Databases & Cloud Hosting</h3>
   <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
-      <br>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a><br>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a><br>
   </p>
 
   <h3>💻 Software & Tools</h3>
@@ -43,6 +42,9 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white"></a>
+      <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
+      <a href="#"><img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white"></a>
       <br>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
@@ -53,10 +55,6 @@
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white"></a>
       <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
-      <br>
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white"></a>
-      <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-      <a href="#"><img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white"></a>
       <br>
       <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
       <a href="#"><img alt="GItHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white"></a>
