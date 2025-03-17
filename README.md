@@ -7,7 +7,7 @@
   
   <h3> &nbsp;&nbsp;👨‍💻 Programming Languages </h3>
   <p>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
+      &nbsp;&nbsp;<a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Apython"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
