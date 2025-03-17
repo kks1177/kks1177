@@ -5,7 +5,7 @@
   <summary><h2> 🛠️ Tech Stack 🛠 </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <div style="margin-left: 30px;">
+  <div style="margin-left: 50px;">
     <h3> 👨‍💻 Programming Languages </h3>
     <p>
         <a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
