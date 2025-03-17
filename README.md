@@ -18,23 +18,23 @@
   
   <h3>🧰 Frameworks & Libraries</h3>
   <p>
-      <a href="https://github.com/search?q=user%3Akks1177+%22import+keras%22"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22from+flask+import%22"><a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22import+numpy+as%22"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22import+pandas+as%22"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22import+tensorflow+as%22"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22Arduino.h%22"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22import+cv2%22"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?logo=ros&logoColor=white"></a><br>
+      <a href="https://github.com/search?q=user%3Akks1177+%22import+keras%22"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22from+flask+import%22"><a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22import+numpy+as%22"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22import+pandas+as%22"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22import+tensorflow+as%22"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22Arduino.h%22"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22import+cv2%22"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"></a><br>
   </p>
 
   <h3>🗄️ Databases & Cloud Hosting</h3>
   <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a><br>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a><br>
   </p>
 
   <h3>💻 Software & Tools</h3>
@@ -45,6 +45,9 @@
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white"></a>
       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
       <a href="#"><img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white"></a>
+      <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
+      <a href="#"><img alt="GItHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white"></a>
+      <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white"></a>
       <br>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
@@ -56,9 +59,6 @@
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white"></a>
       <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
       <br>
-      <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
-      <a href="#"><img alt="GItHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white"></a>
-      <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white"></a><br>
   </p>
 
   <h3> used at least once </h3>
