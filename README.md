@@ -49,11 +49,7 @@
       <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white"></a>
       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
-      <a href="#"><img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white"></a>
-      <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
-      <a href="#"><img alt="GItHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white"></a>
-      <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white"></a>
-      <br>
+      <a href="#"><img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white"></a><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
@@ -62,8 +58,12 @@
       <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white"></a>
-      <br>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white"></a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
+      <a href="#"><img alt="GItHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white"></a>
+      <a href="#"><img alt="Claude AI" src="https://img.shields.io/badge/Claude%20AI-800080.svg?logo=Claude&logoColor=white"></a>
+      <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white"></a><br>
   </p>
 
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;📖 used at least once (studying) </h3>
