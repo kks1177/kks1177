@@ -13,9 +13,9 @@
       <a href="https://github.com/search?q=user%3Akks1177+language%3Apython"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ascratch"><img alt="Scratch" src="https://custom-icon-badges.demolab.com/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Ahtml"><img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Ahtml"><img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a><br>
   </p>
-
+  
   <h3>🧰 Frameworks & Libraries</h3>
   <p>
       <a href="https://github.com/search?q=user%3Akks1177+%22import+keras%22"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"></a>
@@ -25,7 +25,7 @@
       <a href="https://github.com/search?q=user%3Akks1177+%22import+tensorflow+as%22"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+%22Arduino.h%22"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+%22import+cv2%22"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?logo=ros&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?logo=ros&logoColor=white"></a><br>
   </p>
 
   <h3>🗄️ Databases & Cloud Hosting</h3>
@@ -35,7 +35,7 @@
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
       <br>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a><br>
   </p>
 
   <h3>💻 Software & Tools</h3>
@@ -60,7 +60,7 @@
       <br>
       <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
       <a href="#"><img alt="GItHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white"></a>
-      <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white"></a>
+      <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white"></a><br>
   </p>
 
   <h3> used at least once </h3>
@@ -79,7 +79,7 @@
     <a href="https://github.com/kks1177/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kks1177's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kks1177&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p><br>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
