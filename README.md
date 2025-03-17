@@ -7,7 +7,8 @@
   
   <h3> &nbsp;&nbsp;👨‍💻 Programming Languages </h3>
   <p>
-      &nbsp;&nbsp;<a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Apython"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -16,8 +17,9 @@
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ahtml"><img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a><br>
   </p>
 
-  <h3> 📚 Frameworks & Libraries </h3>
+  <h3> &nbsp;&nbsp;📚 Frameworks & Libraries </h3>
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="https://github.com/search?q=user%3Akks1177+%22import+keras%22"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+%22from+flask+import%22"><a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+%22import+numpy+as%22"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
@@ -28,8 +30,9 @@
       <a href="https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22"><img alt="ROS" src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"></a><br>
   </p>
 
-  <h3> 🗄️ Databases & Cloud Hosting </h3>
+  <h3> &nbsp;&nbsp;🗄️ Databases & Cloud Hosting </h3>
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
@@ -37,8 +40,9 @@
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a><br>
   </p>
 
-  <h3> 💻 Software & Tools </h3>
+  <h3> &nbsp;&nbsp;💻 Software & Tools </h3>
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
@@ -61,8 +65,9 @@
       <br>
   </p>
 
-  <h3> used at least once (studying) </h3>
+  <h3> &nbsp;&nbsp; used at least once (studying) </h3>
   <p>
+      &nbsp;&nbsp;&nbsp;
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
   </p>
@@ -71,16 +76,18 @@
 <details> 
   <summary><h2> 📊 Stats and Activity 📊 </h2></summary>
 
-  <h3> 🔥 Streak Stats </h3>
+  <h3> &nbsp;&nbsp;🔥 Streak Stats </h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/kks1177/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kks1177's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kks1177&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
-  <h3> 💻 GitHub Profile Stats </h3>
+  <h3> &nbsp;&nbsp;💻 GitHub Profile Stats </h3>
+  &nbsp;&nbsp;&nbsp;
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kks1177's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kks1177&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kks1177's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks1177&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a><br/>
