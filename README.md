@@ -66,7 +66,7 @@
       <br>
   </p>
 
-  <h3> &nbsp;&nbsp;&nbsp;&nbsp; used at least once (studying) </h3>
+  <h3> &nbsp;&nbsp;&nbsp;&nbsp;📖 used at least once (studying) </h3>
   <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
