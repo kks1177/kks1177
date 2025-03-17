@@ -70,9 +70,10 @@
   <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Akks1177+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a><br>
+      <a href="https://github.com/search?q=user%3Akks1177+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
   </p>
 </details>
+<br>
 
 <details> 
   <summary><h2> 📊 Stats and Activity 📊 </h2></summary>
@@ -93,8 +94,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kks1177's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kks1177&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kks1177's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks1177&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+<br>
 
 
 # :mailbox_with_mail: Contacts
