@@ -12,8 +12,7 @@
 [![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Apython)
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?style=for-the-badge&logo=database&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Asql)
 [![Scratch](https://custom-icon-badges.demolab.com/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ascratch)
-[![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ahtml)
-
+[![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ahtml)  
 
 ### 📚 Frameworks & Libraries
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+keras%22)
@@ -23,16 +22,14 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+tensorflow+as%22)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22Arduino.h%22)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+cv2%22)
-[![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22)
-
+[![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22)  
 
 ### 🗄️ Databases & Cloud Hosting
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)  
 
 ### 💻 Software & Tools
 [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
@@ -53,12 +50,11 @@
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![GItHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white)](#)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-800080.svg?logo=Claude&logoColor=white)](#)
-[![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white)](#)
-
+[![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white)](#)  
 
 ### 📖 Used at Least Once (Studying)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ago)
-[![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ar)
+[![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ar)  
 
 
 ## 📊 Stats and Activity 📊
