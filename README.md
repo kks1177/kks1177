@@ -4,9 +4,9 @@
 
 
 &nbsp;
-<details>
 ## 🛠️ Tech Stack 🛠️
-### 👨‍💻 Programming Languages
+<details>
+<Summary> 👨‍💻 Programming Languages </Summary>
 &nbsp;&nbsp;&nbsp;&nbsp;[![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
 [![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Acpp)
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ajava)
