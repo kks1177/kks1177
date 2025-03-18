@@ -62,12 +62,12 @@
 
 ### 🔥 Streak Stats
 &nbsp;&nbsp;&nbsp;&nbsp;[![Streak Stats](https://github-readme-streak-stats-eight.vercel.app/?user=kks1177&theme=monokai-metallian&hide_border=true&short_numbers=true)](https://github.com/kks1177/github-readme-streak-stats)  
-*🔥 Get streak stats for your profile at [git.io/streak-stats](https://git.io/streak-stats)*
+&nbsp;&nbsp;&nbsp;&nbsp;*🔥 Get streak stats for your profile at [git.io/streak-stats](https://git.io/streak-stats)*
 
 ### 💻 GitHub Profile Stats
 &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kks1177&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kks1177&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/anuraghazra/github-readme-stats)  
-* Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
+&nbsp;&nbsp;&nbsp;&nbsp;* Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 
 &nbsp;
