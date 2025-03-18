@@ -19,8 +19,10 @@
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Apython"><img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?style=for-the-badge&logo=database&logoColor=white"></a>
+    <!--
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ascratch"><img alt="Scratch" src="https://custom-icon-badges.demolab.com/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Akks1177+language%3Ahtml"><img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a><br>
+    -->
   </p>
 
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;📚 Frameworks & Libraries </h3>
@@ -43,7 +45,9 @@
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <!--
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a><br>
+    -->
   </p>
 
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;💻 Software & Tools </h3>
