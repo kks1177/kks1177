@@ -22,11 +22,11 @@
 [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22)
 
 ### 🗄️ Databases & Cloud Hosting
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)]
-[![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)]
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)]
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 
 ### 💻 Software & Tools
 [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
