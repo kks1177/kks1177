@@ -4,7 +4,7 @@
 <details open> 
   <summary><h2> 🛠️ Tech Stack 🛠 </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  <hr style="width:100%;height:1px;border:none;">
+  <hr noshade>
   
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Programming Languages </h3>
   <p>
@@ -78,7 +78,7 @@
 
 <details> 
   <summary><h2> 📊 Stats and Activity 📊 </h2></summary>
-  <hr style="width:100%;height:1px;border:none;">
+  <hr noshade>
 
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;🔥 Streak Stats </h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
