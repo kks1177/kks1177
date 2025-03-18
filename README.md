@@ -1,5 +1,3 @@
-# README
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks1177&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛠️ Tech Stack 🛠️
@@ -55,6 +53,7 @@
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ago)
 [![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ar)
 
+
 ## 📊 Stats and Activity 📊
 
 ### 🔥 Streak Stats
@@ -66,5 +65,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kks1177&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/anuraghazra/github-readme-stats)  
 *Note: Top languages는 공개된 코드에 기반한 언어 사용 통계이며, 경험이나 숙련도를 반영하지 않습니다.*
 
+
 ## :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kks1177.tis
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kks1177.tistory.com/)](https://kks1177.tistory.com/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0826391@gmail.com)](mailto:0826391@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0826391@naver.com)](mailto:0826391@naver.com)
