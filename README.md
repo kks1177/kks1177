@@ -3,6 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks1177&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+<br />
 ## 🛠️ Tech Stack 🛠️
 
 ### 👨‍💻 Programming Languages
@@ -57,7 +58,7 @@
 [![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ar)  
 
 
-<br>
+<br />
 ## 📊 Stats and Activity 📊
 
 ### 🔥 Streak Stats
@@ -70,7 +71,7 @@
 * Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 
-<br>
+<br />
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kks1177.tistory.com/)](https://kks1177.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0826391@gmail.com)](mailto:0826391@gmail.com)
