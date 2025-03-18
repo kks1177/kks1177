@@ -45,9 +45,9 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white)](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](#)
-[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](#) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![GItHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white)](#)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-800080.svg?logo=Claude&logoColor=white)](#)
 [![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white)](#)  
