@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=KiSeong's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks1177&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks1177&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <div align="right">
   <a href="https://github.com/kks1177"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks1177&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 </div>
@@ -8,7 +8,7 @@
 <br>
 <details open> 
   <summary><h2> 🛠️ Tech Stack 🛠 </h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <!-- 추가 뱃지 아이콘 e.g. : https://github.com/Ileriayo/markdown-badges -->
   <hr noshade>
   
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Programming Languages </h3>
@@ -86,18 +86,16 @@
   <hr noshade>
 
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;🔥 Streak Stats </h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats e.g. : https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/kks1177/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kks1177's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kks1177&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
+    <a href="https://github.com/kks1177/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kks1177's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kks1177&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;💻 GitHub Profile Stats </h3>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- e.g. : https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kks1177's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kks1177&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kks1177's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks1177&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
