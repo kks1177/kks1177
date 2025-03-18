@@ -56,7 +56,8 @@
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ago)
 [![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ar)  
 
-  
+
+<br>
 ## 📊 Stats and Activity 📊
 
 ### 🔥 Streak Stats
@@ -66,9 +67,10 @@
 ### 💻 GitHub Profile Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kks1177&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kks1177&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/anuraghazra/github-readme-stats)  
-*Note: Top languages는 공개된 코드에 기반한 언어 사용 통계이며, 경험이나 숙련도를 반영하지 않습니다.*
+* Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 
+<br>
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kks1177.tistory.com/)](https://kks1177.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0826391@gmail.com)](mailto:0826391@gmail.com)
