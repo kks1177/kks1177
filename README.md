@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkks1177&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<br />
+&nbsp;
 ## 🛠️ Tech Stack 🛠️
 
 ### 👨‍💻 Programming Languages
@@ -39,7 +39,8 @@
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Cent OS](https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white)](#)  
+[![Cent OS](https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white)](#)
+&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
@@ -47,7 +48,8 @@
 [![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](#)  
+[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](#)
+&nbsp;
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![GItHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white)](#)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-800080.svg?logo=Claude&logoColor=white)](#)
@@ -58,7 +60,7 @@
 [![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ar)  
 
 
-<br />
+&nbsp;
 ## 📊 Stats and Activity 📊
 
 ### 🔥 Streak Stats
@@ -71,7 +73,7 @@
 * Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 
-<br />
+&nbsp;
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kks1177.tistory.com/)](https://kks1177.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0826391@gmail.com)](mailto:0826391@gmail.com)
