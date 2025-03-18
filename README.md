@@ -6,8 +6,8 @@
 &nbsp;
 ## 🛠️ Tech Stack 🛠️
 
-### 👨‍💻 Programming Languages
-&nbsp;&nbsp;[![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
+&nbsp;&nbsp;&nbsp;&nbsp;### 👨‍💻 Programming Languages
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
 [![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Acpp)
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ajava)
 [![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Apython)
@@ -16,7 +16,7 @@
 [![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ahtml)  
 
 ### 📚 Frameworks & Libraries
-&nbsp;&nbsp;[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+keras%22)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+keras%22)
 [![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22from+flask+import%22)
 [![NumPy](https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+numpy+as%22)
 [![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+pandas+as%22)
