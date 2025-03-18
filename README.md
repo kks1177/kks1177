@@ -38,14 +38,14 @@
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Cent OS](https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white)](#)
+[![Cent OS](https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white)](#) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white)](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](#)
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![GItHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white)](#)
