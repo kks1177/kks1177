@@ -5,8 +5,7 @@
 
 &nbsp;
 ## 🛠️ Tech Stack 🛠️
-<details>
-<Summary> 👨‍💻 Programming Languages </Summary>
+### 👨‍💻 Programming Languages 
 &nbsp;&nbsp;&nbsp;&nbsp;[![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
 [![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Acpp)
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ajava)
@@ -56,11 +55,9 @@
 ### 📖 Used at Least Once (Studying)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ago)
 [![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ar)  
-</details>
 
 
 &nbsp;
-<details>
 ## 📊 Stats and Activity 📊
 
 ### 🔥 Streak Stats
@@ -71,7 +68,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kks1177&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kks1177&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/anuraghazra/github-readme-stats)  
 &nbsp;&nbsp;&nbsp;&nbsp;* Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
-</details>
 
 
 &nbsp;
