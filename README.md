@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack 🛠️
 
 ### 👨‍💻 Programming Languages
-[![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
+  [![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
 [![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Acpp)
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ajava)
 [![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Apython)
@@ -16,7 +16,7 @@
 [![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ahtml)  
 
 ### 📚 Frameworks & Libraries
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+keras%22)
+  [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+keras%22)
 [![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22from+flask+import%22)
 [![NumPy](https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+numpy+as%22)
 [![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22import+pandas+as%22)
@@ -26,20 +26,20 @@
 [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/search?q=user%3Akks1177+%22ros%3A%3Ainit%22)  
 
 ### 🗄️ Databases & Cloud Hosting
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](#)  
 
 ### 💻 Software & Tools
-[![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
+  [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#)
 [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](#)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Cent OS](https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white)](#) <br />
+  [![Cent OS](https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white)](#) <br />
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
@@ -47,7 +47,7 @@
 [![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white)](#)
 [![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](#) <br />
+  [![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white)](#) <br />
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![GItHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white)](#)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-800080.svg?logo=Claude&logoColor=white)](#)
