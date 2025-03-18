@@ -7,13 +7,13 @@
   <hr noshade>
   
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Programming Languages </h3>
-  [![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
-  [![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Acpp)
-  [![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ajava)
-  [![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Apython)
-  [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?style=for-the-badge&logo=database&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Asql)
-  [![Scratch](https://custom-icon-badges.demolab.com/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ascratch)
-  [![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ahtml)
+[![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ac)
+[![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp2&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Acpp)
+[![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ajava)
+[![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Apython)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?style=for-the-badge&logo=database&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Asql)
+[![Scratch](https://custom-icon-badges.demolab.com/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ascratch)
+[![HTML](https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Akks1177+language%3Ahtml)
 
   <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
