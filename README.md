@@ -6,7 +6,7 @@
 </div>
 
 <br>
-<details open> 
+<details> 
   <summary><h2> 🛠️ Tech Stack 🛠 </h2></summary>
   <!-- 추가 뱃지 아이콘 e.g. : https://github.com/Ileriayo/markdown-badges -->
   <hr noshade>
