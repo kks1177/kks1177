@@ -71,11 +71,13 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?logo=android%20studio&logoColor=white"></a><br>
+    <!--
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white"></a>
       <a href="#"><img alt="GItHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?logo=github-copilot&logoColor=white"></a>
       <a href="#"><img alt="Claude AI" src="https://img.shields.io/badge/Claude%20AI-800080.svg?logo=Claude&logoColor=white"></a>
       <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?logo=google%20gemini&logoColor=white"></a><br>
+    -->
   </p>
 
   <h3> &nbsp;&nbsp;&nbsp;&nbsp;📖 used at least once (studying) </h3>
