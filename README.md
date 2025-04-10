@@ -114,7 +114,7 @@
 
 # :mailbox_with_mail: Contacts
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?style=flat-square&name={Tech%20Blog})](https://kks1177.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech%20Blog)](https://kks1177.tistory.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kks1177.tistory.com/)]() 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0826391@gmail.com)](mailto:kks1177.dev@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:0826391@naver.com)](mailto:0826391@naver.com)
